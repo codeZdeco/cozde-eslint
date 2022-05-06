@@ -1,4 +1,4 @@
-## CoZde Eslint rules for react typescipt projects
+## CoZde Eslint rules for react typescript projects
 
 ## How to use this?
 
@@ -9,11 +9,13 @@ Run the following command at your root project folder:
 
 ### 2. Manual install all peer dependencies
 
-For npm  
-`npm i -D @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-config-prettier eslint-plugin-prettier eslint-plugin-react eslint-plugin-react-hooks eslint-plugin-simple-import-sort prettier`
+For npm
 
-For yarn  
-`yarn add -D @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-config-prettier eslint-plugin-prettier eslint-plugin-react eslint-plugin-react-hooks eslint-plugin-simple-import-sort prettier`
+> npm i -D @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-config-prettier eslint-plugin-prettier eslint-plugin-react eslint-plugin-react-hooks eslint-plugin-simple-import-sort prettier
+
+For yarn
+
+> yarn add -D @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-config-prettier eslint-plugin-prettier eslint-plugin-react eslint-plugin-react-hooks eslint-plugin-simple-import-sort prettier
 
 ### 3. Custom your `eslintConfig` in `package.json`
 
