@@ -1,6 +1,6 @@
 {
   "name": "cozde-eslint",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "general cozde react typescript eslint",
   "main": "index.js",
   "scripts": {
